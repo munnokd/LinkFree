@@ -1,9 +1,9 @@
-# 1.114.0 (2023-04-26)
+# 1.136.0 (2023-06-02)
 
 
 ### Features
 
-* fade transition on buttons ([#6355](https://github.com/EddieHubCommunity/LinkFree/issues/6355)) ([e5d6141](https://github.com/EddieHubCommunity/LinkFree/commit/e5d6141fa611a200de6b754daa16c0486a6abd3f))
+* newsletter sign up ([#7312](https://github.com/EddieHubCommunity/LinkFree/issues/7312)) ([80328a2](https://github.com/EddieHubCommunity/LinkFree/commit/80328a236bf696b89cd4715027fe325fcb7990b6))
 
 
 
